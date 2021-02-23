@@ -1,0 +1,28 @@
+body {
+    position: relative;
+    margin:0 auto;
+    height:100%;
+    text-align:center;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(171, 179, 197);
+}
+
+h1,h4{
+    font-family: 'Inria Sans', sans-serif;
+}
+
+.card-deck{
+    position:relative;
+    margin:0 auto;
+    text-align:center;
+}
+
+#current{
+    max-width: 25rem;
+    margin:0 auto;
+}
+
+img{
+    position: relative;
+    margin:0 auto;
+}
